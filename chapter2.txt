@@ -1,0 +1,12 @@
+I learn about:
+- cd ~: ma duce in C si in useru in care lucrez
+- cd <name>: ma duce in ce fisier vreau 
+- touch <name> : imi face un fisier
+- start <name>: imi deschide un fisier
+- ls : imi arata obiectele din fisier
+- ls -a: imi arata fisierele ascunse 
+- git init : imi face mediul git care este ascuns
+- git status: imi arata ce fisiere sunt urmarite
+- git add <file> : adauga fisier de uramrit si le pune in staging area
+- git commit -m "descriere" : imi face o descriere la ceea ce fac, ar fi bine sa folosesc prezentul contiunuu 
+- git log: modificarile ?
